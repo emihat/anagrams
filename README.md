@@ -14,7 +14,7 @@ ogd
 god
 ```
 
-- 'canoe' is generated from 'ocean'
+- 'ocean' is generated from 'canoe'
 
 ```
 $ go run anagrams.go canoe | grep ocean
